@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-diy",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "gitbook plugin",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "skin"
   ],
   "author": "louxiaojian",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/lxj/gitbook-plugin-diy/issues"
   }
